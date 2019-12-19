@@ -1,0 +1,23 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/did_I_win
+[did_I_win] $ /bin/sh -xe /tmp/jenkins8341314539716937184.sh
++ cd /home/pablo/git/sandbox
++ python did_I_win_at_powerball.py
+
+Draw Date:                 2019-10-16
+Winning Numbers:           01,05,25,63,67
+Winning Power Ball Number: 03
+Multiplier:                2
+
+My Numbers          :      [1, 8, 16, 28, 44]
+My Power Ball Number:      8
+
+01 is a match
+
+Sorry - the Power Ball number does not match
+
+Sorry - you do not win a prize
+
+
+Finished: SUCCESS

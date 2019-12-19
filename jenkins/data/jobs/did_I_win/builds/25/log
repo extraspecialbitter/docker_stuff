@@ -1,0 +1,8 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/did_I_win
+[did_I_win] $ /bin/sh -xe /tmp/jenkins3360229470036337299.sh
++ cd /home/pablo/git/sandbox
+/tmp/jenkins3360229470036337299.sh: 2: cd: can't cd to /home/pablo/git/sandbox
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

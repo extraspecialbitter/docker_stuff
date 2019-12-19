@@ -1,0 +1,11 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/did_I_win_github
+[did_I_win_github] $ /bin/sh -xe /tmp/jenkins5452989404531211238.sh
++ git clone https://github.com/extraspecialbitter/sandbox.git
+fatal: destination path 'sandbox' already exists and is not an empty directory.
+Build step 'Execute shell' marked build as failure
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] done
+Finished: FAILURE

@@ -1,0 +1,27 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/did_I_win_github
+[did_I_win_github] $ /bin/sh -xe /tmp/jenkins1843016912851741185.sh
++ git clone https://github.com/extraspecialbitter/sandbox.git
+Cloning into 'sandbox'...
++ python ./sandbox/did_I_win_at_powerball.py
+
+Draw Date:                 2019-12-07
+Winning Numbers:           18,42,53,62,66
+Winning Power Ball Number: 25
+Multiplier:                3
+
+My Numbers          :      [1, 8, 16, 28, 44]
+My Power Ball Number:      8
+
+Sorry - no matches with your number
+
+Sorry - the Power Ball number does not match
+
+Sorry - you do not win a prize
+
+
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] done
+Finished: SUCCESS

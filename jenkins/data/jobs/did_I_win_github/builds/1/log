@@ -1,0 +1,24 @@
+Started by user [8mha:////4OPESGHTlEbk8SVvjRh1WDOpkGmGE3FvsLw+1RS0+eUxAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZu/dLi1CL9gsSknHwAdxHhIcAAAAA=[0mPaul David Mena
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/did_I_win_github
+[did_I_win_github] $ /bin/sh -xe /tmp/jenkins6560749478665349258.sh
++ git clone https://github.com/extraspecialbitter/sandbox.git
+Cloning into 'sandbox'...
++ python ./sandbox/did_I_win_at_powerball.py
+
+Draw Date:                 2019-11-30
+Winning Numbers:           15,35,42,63,68
+Winning Power Ball Number: 18
+Multiplier:                4
+
+My Numbers          :      [1, 8, 16, 28, 44]
+My Power Ball Number:      8
+
+Sorry - no matches with your number
+
+Sorry - the Power Ball number does not match
+
+Sorry - you do not win a prize
+
+
+Finished: SUCCESS
